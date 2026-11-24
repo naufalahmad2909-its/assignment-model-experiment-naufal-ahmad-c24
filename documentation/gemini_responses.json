@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "dataset_sha256": "fc3f270e5ebb7cbe022e267106e68e251a832a9e9cd2e0cae460426397df2a50",
+    "model": "gemini-3.5-flash-lite",
+    "generation_config": {
+      "temperature": 0.2,
+      "max_output_tokens": 1024,
+      "thinking_config": {
+        "thinking_level": "minimal"
+      }
+    },
+    "prompt_sha256": "7f742794c2883135faf16e9a4225fb8d840d6a508b1d4a5902f68395b89ef910",
+    "test_review_ids": [
+      2,
+      3,
+      5,
+      16,
+      17,
+      18,
+      24,
+      26,
+      31,
+      36,
+      37,
+      43,
+      46,
+      50,
+      58,
+      63,
+      66,
+      71,
+      77,
+      78,
+      82,
+      85,
+      86,
+      89,
+      99,
+      106,
+      113,
+      115,
+      117,
+      124,
+      127,
+      131,
+      135,
+      139,
+      156,
+      163,
+      164,
+      173,
+      184,
+      189,
+      191,
+      197
+    ]
+  },
+  "source": "real_gemini_api",
+  "created_at_utc": "2026-11-24T20:42:40.698889+00:00",
+  "responses": [
+    {
+      "text_group": "puas banget belanja disini, proses cepat dan barang aman.",
+      "review_text": "Puas banget belanja disini, proses cepat dan barang aman.",
+      "prediction": "positif",
+      "raw_response_text": "positif",
+      "response_id": "wfYFa8ehIoajqfkP6_724AI",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 2.487638999999035,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 124,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 124
+          }
+        ],
+        "total_token_count": 126
+      },
+      "requested_at_utc": "2026-11-24T20:42:43.926530+00:00"
+    },
+    {
+      "text_group": "terima kasih seller, barangnya awet dan sesuai deskripsi.",
+      "review_text": "Terima kasih seller, barangnya awet dan sesuai deskripsi.",
+      "prediction": "positif",
+      "raw_response_text": "positif",
+      "response_id": "w_YFa9X2M6iG4t4P29z88AY",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 1.0130337000009604,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 126,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 126
+          }
+        ],
+        "total_token_count": 128
+      },
+      "requested_at_utc": "2026-11-24T20:42:44.939689+00:00"
+    },
+    {
+      "text_group": "pengiriman lambat sekali, sudah dua minggu belum sampai.",
+      "review_text": "Pengiriman lambat sekali, sudah dua minggu belum sampai.",
+      "prediction": "negatif",
+      "raw_response_text": "negatif",
+      "response_id": "xPYFa--PN9_cqfkPuf7DmQ0",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 1.0370884999865666,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 124,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 124
+          }
+        ],
+        "total_token_count": 126
+      },
+      "requested_at_utc": "2026-11-24T20:42:45.976902+00:00"
+    },
+    {
+      "text_group": "respon penjual lambat dan terkesan tidak peduli komplain.",
+      "review_text": "Respon penjual lambat dan terkesan tidak peduli komplain.",
+      "prediction": "negatif",
+      "raw_response_text": "negatif",
+      "response_id": "xfYFa5qbOLbEg8UP8ojKuQc",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 2.2218044999754056,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 128,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 128
+          }
+        ],
+        "total_token_count": 130
+      },
+      "requested_at_utc": "2026-11-24T20:42:48.198792+00:00"
+    },
+    {
+      "text_group": "ukuran dan warna berbeda dari pesanan, sangat kecewa.",
+      "review_text": "Ukuran dan warna berbeda dari pesanan, sangat kecewa.",
+      "prediction": "negatif",
+      "raw_response_text": "negatif",
+      "response_id": "yPYFa4rsBuGA3LUP1-jK6QE",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 3.7701184999896213,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 125,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 125
+          }
+        ],
+        "total_token_count": 127
+      },
+      "requested_at_utc": "2026-11-24T20:42:51.968969+00:00"
+    },
+    {
+      "text_group": "pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",
+      "review_text": "Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",
+      "prediction": "positif",
+      "raw_response_text": "positif",
+      "response_id": "y_YFa4fPNPnFg8UPpa-ZgAQ",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 0.7163748999591917,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 128,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 128
+          }
+        ],
+        "total_token_count": 130
+      },
+      "requested_at_utc": "2026-11-24T20:42:52.685568+00:00"
+    },
+    {
+      "text_group": "komplain tidak ditanggapi sama sekali oleh penjual.",
+      "review_text": "Komplain tidak ditanggapi sama sekali oleh penjual.",
+      "prediction": "negatif",
+      "raw_response_text": "negatif",
+      "response_id": "zPYFa7PvI66lg8UP6IilyQw",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 0.5609527000342496,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 124,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 124
+          }
+        ],
+        "total_token_count": 126
+      },
+      "requested_at_utc": "2026-11-24T20:42:53.246660+00:00"
+    },
+    {
+      "text_group": "harga worth it dengan kualitas yang didapat, sangat puas.",
+      "review_text": "Harga worth it dengan kualitas yang didapat, sangat puas.",
+      "prediction": "positif",
+      "raw_response_text": "positif",
+      "response_id": "zfYFa6-uCZyA694P1cfV8Ak",
+      "model_version": "gemini-3.5-flash-lite",
+      "finish_reason": "FinishReason.STOP",
+      "latency_seconds_successful_attempt": 0.8573909000260755,
+      "attempts": 1,
+      "usage": {
+        "candidates_token_count": 2,
+        "prompt_token_count": 124,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 124
+          }
+        ],
+        "total_token_count": 126
+      },
+      "requested_at_utc": "2026-11-24T20:42:54.104164+00:00"
+    }
+  ]
+}

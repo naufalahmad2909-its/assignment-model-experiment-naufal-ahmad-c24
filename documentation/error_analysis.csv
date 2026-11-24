@@ -1,0 +1,14 @@
+review_id,product_name,review_text,sentiment,text_group,prediction_classic,prediction_gemini,classic_correct,gemini_correct
+24,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+31,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+36,Rice Cooker,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+43,Kemeja Flanel,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+50,Charger Cepat,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+78,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+82,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+85,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+127,Sandal Jepit,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+139,Case HP,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+156,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",positif,negatif,False,True
+173,Tas Ransel,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True
+184,Headset Bluetooth,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,respon penjual lambat dan terkesan tidak peduli komplain.,positif,negatif,False,True

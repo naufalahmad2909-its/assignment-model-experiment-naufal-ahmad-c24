@@ -1,0 +1,3 @@
+approach,accuracy,precision_macro,recall_macro,f1_macro
+classic,0.75,0.8333333333333333,0.75,0.7333333333333334
+gemini,1.0,1.0,1.0,1.0

@@ -1,0 +1,201 @@
+review_id,text_group,sentiment,split
+1,pelayanan lambat dan tidak responsif saat dikomplain.,negatif,train
+2,"puas banget belanja disini, proses cepat dan barang aman.",positif,test
+3,"terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,test
+4,warna produk berbeda jauh dari foto di listing.,negatif,train
+5,"terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,test
+6,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+7,sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,train
+8,"belanja disini selalu puas, kualitas terjaga.",positif,train
+9,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+10,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+11,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+12,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+13,"barang cacat produksi, jahitan lepas di beberapa bagian.",negatif,train
+14,"barang yang datang tidak sesuai dengan foto, kecewa berat.",negatif,train
+15,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+16,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+17,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+18,"puas banget belanja disini, proses cepat dan barang aman.",positif,test
+19,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+20,"pelayanan cepat tanggap, produk berkualitas tinggi.",positif,train
+21,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+22,"sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,train
+23,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+24,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+25,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+26,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+27,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+28,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+29,pelayanan lambat dan tidak responsif saat dikomplain.,negatif,train
+30,sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,train
+31,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+32,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+33,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+34,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+35,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+36,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+37,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+38,warna produk berbeda jauh dari foto di listing.,negatif,train
+39,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+40,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+41,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+42,"barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,train
+43,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+44,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+45,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+46,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+47,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+48,sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,train
+49,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+50,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+51,"deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,train
+52,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+53,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+54,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+55,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+56,"pengalaman belanja terburuk, tidak akan order lagi disini.",negatif,train
+57,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+58,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+59,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+60,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+61,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+62,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+63,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+64,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+65,warna produk berbeda jauh dari foto di listing.,negatif,train
+66,komplain tidak ditanggapi sama sekali oleh penjual.,negatif,test
+67,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+68,"ukuran tidak sesuai, terlalu kecil dari yang dipesan.",negatif,train
+69,"sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,train
+70,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+71,komplain tidak ditanggapi sama sekali oleh penjual.,negatif,test
+72,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+73,"barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,train
+74,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+75,"produk palsu, bukan barang original seperti yang dijanjikan.",negatif,train
+76,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+77,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+78,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+79,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+80,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+81,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+82,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+83,"barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,train
+84,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+85,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+86,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+87,"sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,train
+88,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+89,"harga worth it dengan kualitas yang didapat, sangat puas.",positif,test
+90,"barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,train
+91,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+92,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+93,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+94,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+95,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+96,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+97,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+98,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+99,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+100,"kualitas premium dengan harga bersahabat, recommended!",positif,train
+101,"produk palsu, bukan barang original seperti yang dijanjikan.",negatif,train
+102,pelayanan lambat dan tidak responsif saat dikomplain.,negatif,train
+103,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+104,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+105,"deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,train
+106,"terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,test
+107,"deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,train
+108,"deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,train
+109,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+110,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+111,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+112,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+113,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+114,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+115,komplain tidak ditanggapi sama sekali oleh penjual.,negatif,test
+116,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+117,"harga worth it dengan kualitas yang didapat, sangat puas.",positif,test
+118,"produk palsu, bukan barang original seperti yang dijanjikan.",negatif,train
+119,barang datang dalam kondisi rusak dan packing asal-asalan.,negatif,train
+120,"barang cacat produksi, jahitan lepas di beberapa bagian.",negatif,train
+121,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+122,pelayanan lambat dan tidak responsif saat dikomplain.,negatif,train
+123,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+124,"puas banget belanja disini, proses cepat dan barang aman.",positif,test
+125,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+126,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+127,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+128,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+129,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+130,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+131,"terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,test
+132,sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,train
+133,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+134,"pengiriman berantakan, barang sampai dalam kondisi kotor.",negatif,train
+135,"puas banget belanja disini, proses cepat dan barang aman.",positif,test
+136,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+137,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+138,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+139,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+140,"kualitas premium dengan harga bersahabat, recommended!",positif,train
+141,"pengalaman belanja terburuk, tidak akan order lagi disini.",negatif,train
+142,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+143,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+144,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+145,"packing rapi, produk sesuai deskripsi. recommended seller!",positif,train
+146,warna produk berbeda jauh dari foto di listing.,negatif,train
+147,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+148,"pengalaman belanja terburuk, tidak akan order lagi disini.",negatif,train
+149,"barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,train
+150,"belanja disini selalu puas, kualitas terjaga.",positif,train
+151,sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,train
+152,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+153,"barang datang lebih cepat dari perkiraan, kualitas top!",positif,train
+154,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+155,warna produk berbeda jauh dari foto di listing.,negatif,train
+156,"ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,test
+157,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+158,"produk palsu, bukan barang original seperti yang dijanjikan.",negatif,train
+159,"pengiriman berantakan, barang sampai dalam kondisi kotor.",negatif,train
+160,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+161,barang datang dalam kondisi rusak dan packing asal-asalan.,negatif,train
+162,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+163,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+164,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+165,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+166,"pelayanan cepat tanggap, produk berkualitas tinggi.",positif,train
+167,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+168,"tidak sesuai standar, banyak cacat pada produk yang diterima.",negatif,train
+169,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+170,"respon cepat kalau ada pertanyaan, sangat membantu.",positif,train
+171,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+172,"pengiriman berantakan, barang sampai dalam kondisi kotor.",negatif,train
+173,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+174,"ukuran tidak sesuai, terlalu kecil dari yang dipesan.",negatif,train
+175,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+176,"sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,train
+177,"bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,train
+178,"kualitas premium dengan harga bersahabat, recommended!",positif,train
+179,"suka banget sama warnanya, sesuai ekspektasi.",positif,train
+180,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+181,"mantap, sesuai gambar dan harga terjangkau.",positif,train
+182,"produk original dan berfungsi dengan baik, terima kasih!",positif,train
+183,"sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,train
+184,respon penjual lambat dan terkesan tidak peduli komplain.,negatif,test
+185,"mantap, sesuai gambar dan harga terjangkau.",positif,train
+186,"belanja disini selalu puas, kualitas terjaga.",positif,train
+187,"kualitas produk sangat memuaskan, akan order lagi.",positif,train
+188,"sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,train
+189,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+190,barang tidak berfungsi sama sekali begitu diterima.,negatif,train
+191,"pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,test
+192,pelayanan lambat dan tidak responsif saat dikomplain.,negatif,train
+193,"pengiriman berantakan, barang sampai dalam kondisi kotor.",negatif,train
+194,"fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,train
+195,"deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,train
+196,"bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,train
+197,"pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,test
+198,"produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,train
+199,"kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,train
+200,"pengalaman belanja terburuk, tidak akan order lagi disini.",negatif,train

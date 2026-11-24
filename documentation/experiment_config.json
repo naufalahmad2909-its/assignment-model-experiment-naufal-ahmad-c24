@@ -1,0 +1,19 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "generation_config": {
+    "temperature": 0.2,
+    "max_output_tokens": 1024,
+    "thinking_config": {
+      "thinking_level": "minimal"
+    }
+  },
+  "split_random_state": 42,
+  "split_unit": "unique normalized review text",
+  "test_group_fraction": 0.2,
+  "metrics_average": "macro",
+  "label_order": [
+    "negatif",
+    "positif"
+  ],
+  "api_cache_policy": "one real API response per unique test text; mapped to every matching test row"
+}
